@@ -55,4 +55,3 @@ I believe in the power of sharing knowledge. I love helping passionate students 
 
 ### ⚡ Fun Fact
 When I'm not coding or leading community events, you'll probably find me helping someone debug their path in tech or exploring the latest in GenAI. 🚀
-![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
